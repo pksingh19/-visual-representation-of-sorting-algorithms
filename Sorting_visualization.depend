@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1554516589 source:f:\sorting\sorting_visualization\main.cpp
+	<iostream>
+	<graphics.h>
+	"ImpFunction.h"
+	"Bubblesort.h"
+	"Insertionsort.h"
+	"Mergesort.h"
+
+1554504314 f:\sorting\sorting_visualization\impfunction.h
+
+1554516651 f:\sorting\sorting_visualization\bubblesort.h
+
+1554500470 f:\sorting\sorting_visualization\insertionsort.h
+
+1554503419 f:\sorting\sorting_visualization\mergesort.h
+
